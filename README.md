@@ -28,7 +28,7 @@ A real-time one to one chat web application built using Java 17, MySQL, Spring B
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Goldencat98/ChatApp.git
+   git clone https://github.com/ProcsyAK/ChatApp.git
    cd ChatApp
    ```
    
@@ -54,25 +54,11 @@ A real-time one to one chat web application built using Java 17, MySQL, Spring B
 - **Login**: Create a new account or securely log in using your existing credentials to access the platform.
 - **Chat**: Engage in real-time conversations with other users. Stay informed with instant notifications when new users join or send you messages.
 
-## License
 
-This project is licensed under the **Goldencat Chatroom License**. You may use, modify, and distribute the software for personal, non-commercial use. Commercial use requires prior approval from the creator.
 
-For more details, see the [LICENSE](./License.md) file.
 
-## Contact
 
-For permissions related to commercial use or any questions, please contact: Code With Goldencat (codingwithgoldencat@gmail.com)
 
-## Contributions
-
-Contributions are welcome! Feel free to open an issue or submit a pull request to improve the project.
-
-## Screenshots
-
-![Login Page](src/main/resources/static/screenshots/login_screenshot.png)
-![Register Page](src/main/resources/static/screenshots/register_screenshot.png)
-![Chat App Page](src/main/resources/static/screenshots/chatapp_screenshot.png)
 
 ## Future Enhancements
 
